@@ -1,4 +1,16 @@
 import product01 from './assets/MakeAWay.jpg';
+import product02 from './assets/MustardnMacSauce.jpg';
+import product03 from './assets/LookingBack.jpg';
+import product04 from './assets/TiltedTowers.jpg';
+import product05 from './assets/BLUFF.jpg';
+import product06 from './assets/RelishParts.jpg';
+import product07 from './assets/ProfessorX.jpg';
+import product08 from './assets/DateNight.jpg';
+import product09 from './assets/Atrocity.jpg';
+import product10 from './assets/AloneTime.jpg';
+import product11 from './assets/BentleyBeats.jpg';
+import product12 from './assets/thankthestars.jpg';
+import product13 from './assets/forestfires.jpg';
 
 
 export const PRODUCTS = [
